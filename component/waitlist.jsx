@@ -48,7 +48,7 @@ function Waitlist() {
           <div className="bg-green-900/30 border border-green-600 rounded-lg p-6">
             <p className="text-green-400 font-semibold">You're on the list!</p>
             <a
-              href="https://whatsapp.com/channel/YOUR_CHANNEL_INVITE_CODE"
+              href="https://whatsapp.com/channel/0029VbDNFOq3bbV1sWD6Rr3u"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block mt-4 bg-green-600 hover:bg-green-500 text-white px-6 py-3 rounded-full font-medium transition"
